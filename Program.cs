@@ -2,7 +2,7 @@
 
 namespace ConPerimetroOptimizado
 {
-    class Program
+    class CalculoPerimetroCuadrilatero
     {
         static void Main()
         {
